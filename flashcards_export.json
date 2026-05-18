@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What country does sushi originate from?",
+    "answer": "Japan - originally as a method of preserving fish in fermented rice",
+    "used": false
+  },
+  {
+    "question": "What is the most expensive spice in the world?",
+    "answer": "Saffron - it can cost over $5,000 per kilogram",
+    "used": false
+  },
+  {
+    "question": "How many grapes does it take to make one bottle of wine?",
+    "answer": "About 600 to 800 grapes",
+    "used": false
+  },
+  {
+    "question": "Which fruit has its seeds on the outside?",
+    "answer": "Strawberry - each one has about 200 seeds on its surface",
+    "used": false
+  },
+  {
+    "question": "What is the world's most consumed food?",
+    "answer": "Rice - it is a staple food for over half of the global population",
+    "used": false
+  }
+]
