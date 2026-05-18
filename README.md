@@ -107,10 +107,7 @@ MongoDB Atlas free tier. Database is `flashcardDB_v2` with three collections: `u
 
 ## Workload allocation
 
-| Member | Work |
-|--------|------|
-| N | Frontend — all React components and pages (LoginPage, RegisterPage, DashboardPage, ProfilePage, HistoryPage, AdminPage, Navbar), styling (index.css), API helper (api.js) |
-| Carola | Backend — Express server setup (server.js), all models (User.js, Flashcard.js, ViewHistory.js), all routes (userRoutes.js, flashcardRoutes.js, historyRoutes.js), auth middleware (auth.js), database setup |
+Completed individually by Naya Ratanapruksakul.
 
 ## Challenges
 
